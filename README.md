@@ -1,2 +1,2 @@
-# docker-calysto-processing-ijava
-A dockerfile based upon the [scipy-notebook](https://github.com/jupyter/docker-stacks/tree/master/scipy-notebook) from [Project Jupyter](https://github.com/jupyter) with [Calysto Processing kernel](https://github.com/Calysto/calysto_processing) and [IJava kernel](https://github.com/SpencerPark/IJava).
+# docker-jupyter-processing-java-octave-cpp
+A dockerfile based upon the [scipy-notebook](https://github.com/jupyter/docker-stacks/tree/master/scipy-notebook) from [Project Jupyter](https://github.com/jupyter) with [Calysto Processing kernel](https://github.com/Calysto/calysto_processing), [IJava kernel](https://github.com/SpencerPark/IJava), [Octave kernel](https://github.com/calysto/octave_kernel) and [C++ kernel](https://github.com/QuantStack/xeus-cling).
